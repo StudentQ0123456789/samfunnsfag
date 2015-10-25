@@ -1,0 +1,2 @@
+# resultatregnskap 
+# balanseregnskap
