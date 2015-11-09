@@ -1,15 +1,22 @@
 # oppbygging
 
 # verdenserklæring om menneskerettigheter
-"alle mennesker har lik verdi. alle mennesker har rett til beskyttelse"
+
+* alle mennesker har lik verdi
+* alle mennesker har rett til beskyttelse
 
 ## konvesjon om sivile og politiske rettigheter
+
 individets rettigheter ift staten
-yttringsfrihet. valg. rettssikkerhet.
+
+* yttringsfrihet. valg. rettssikkerhet
+
 
 ## konvesjon om økonomiske, sosiale og kulturelle rettigheter
-innbyggerene har tilgang til visse goder
-tilfredsstillende levestandard. utdanning. arbeid.
+
+innbyggerene har tilgang til visse goder.
+
+* tilfredsstillende levestandard. utdanning. arbeid.
 
 ## konvesjon mot rasediskriminering
 avskaffe forskjellsbehandling pga etnisitet
@@ -32,7 +39,7 @@ hindre bortføring og hemmelig fengsling
 ## konvesjon som beskytter alle arbeidsmigranter og deres familier
 etablere minimumnsstandarder for alle arbeidsinnvandrere
 
-
+\newpage
 # mål
 
 ## tusenårsmål: 2000 - 2015

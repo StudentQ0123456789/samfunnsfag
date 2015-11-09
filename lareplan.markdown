@@ -5,6 +5,7 @@
 _Ta for seg og granske fra forskjellige sider_
 
 * Muntlig og skriftlig drøfte ulike løsningsforslag for aktuelle lokale, nasjonale eller globale problem (bruk fagbegrep)
+* Drøfte hvordan ulike typer av kriminalitet kan forebygges
 * Drøfte årsaker til at fordommer, rasisme og diskriminering oppstår og mottiltak
 * Drøfte måter arbeidsløsheten kan løses på
 * Drøfte verdien av likestilling og konsekvenser av et kjønnsdelt arbeidsmarked
@@ -27,6 +28,7 @@ _Utveksle meninger om, debattere; behandle_
 * Diskutere forbrukerens etiske ansvar
 * Diskutere begrepet kultur
 * Diskutere hvordan religiøs, etnisk og kulturell variasjon skaper muligheter og utfordringer
+* Diskutere muligheter og utfordringer på arbeidsmarkedet i dag
 * Diskutere etiske problemstillinger i arbeidslivet
 * Diskutere hvordan man kan være med i og påvirke det politiske systemet 
 * Diskutere hvordan etnisitet og sosioøkonomi gjør at makt og påvirkningskraft varierer

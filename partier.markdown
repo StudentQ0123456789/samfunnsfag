@@ -10,11 +10,11 @@
 * beskytte det frie markedet fra politikk
 
 ## sosialdemokrati
-markedsøkonomien hjelper ikke mot et samfunn godt mot alle
-lik mulighet til samfunnets goder
+* markedsøkonomien hjelper ikke til mot et samfunn godt mot alle. 
+* lik mulighet til samfunnets goder
 
 ## marxsisme
-  sosialisme gjennom revolusjon
+* sosialisme gjennom revolusjon
 
 
 # velge hva?
@@ -177,7 +177,7 @@ H, FrP, AP: inntekter og arbeidsplasser
 * ansvarlig og inkluderende innvandringspolitikk
 
 ## V 
-* (på vippen i Stortinget)
+* (på vippen i Stortinget?)
 * miljø
 * flyktningedugnad gjennom lokalpolitikk
 
@@ -203,6 +203,7 @@ H, FrP, AP: inntekter og arbeidsplasser
 * "prøv oss!"
     
 
+<!--
 # NRK Skole
 
 ## KrF
@@ -212,5 +213,5 @@ urettferdighet i verden
 mobbing
 fler fattige, vanskelig å bo i Norge
 ta vare på natur og miljø
-
+-->
 
